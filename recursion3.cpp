@@ -16,7 +16,7 @@ bool busc(int arr[], int t, int x) {
 int main() {
     int t, x;
     
-    cout << "Ingrese la cantidad de elemenftos: ";
+    cout << "Ingrese la cantidad de elementos: ";
     cin >> t;
     
     int arr[t];
